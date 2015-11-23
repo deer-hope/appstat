@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/deer-hope/appstat.png?label=ready&title=Ready)](https://waffle.io/deer-hope/appstat)
 ## appstat
 Get AppStore apps reviews, and rankings worldwide for every category.
 
